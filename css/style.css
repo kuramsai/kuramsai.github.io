@@ -586,7 +586,7 @@ a.totop-link {
 }
 .introduction h2 {
     border: none;
-    color: #aeaeae;
+    color: #ffffff;
     text-transform: uppercase;
     line-height: 50px;
     padding-bottom: 0;
@@ -599,9 +599,9 @@ a.totop-link {
     z-index:2;
 }
 .introduction span.title {
-    border-bottom: 1px solid #7a7a7a;
-    border-top: 1px solid #7a7a7a;
-    color: #aeaeae;
+    border-bottom: 1px solid #ffffff;
+    border-top: 1px solid #ffffff;
+    color: #ffffff;
     padding: 15px 0;
     letter-spacing: 1px;
     text-transform: uppercase;
